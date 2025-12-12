@@ -1,0 +1,3 @@
+pdb_id,lig_id,prot_path,lig_path,pocket_path,output_dir
+1a2b,LIG1,1a2b_protein.pdb,1a2b_ligand.sdf,1a2b_pocket.pdb,gnina_out/1a2b
+1c3d,LIG2,/1c3d_protein.pdb,1c3d_ligand.sdf,1c3d_pocket.pdb,gnina_out/1c3d
