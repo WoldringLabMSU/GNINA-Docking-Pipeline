@@ -14,6 +14,7 @@ submit_gnina_array.sh #SLURM submission script for GNINA docking via job array
 ```
 
 ## Environment Setup  
+Ensure GNINA 1.3.1 singularity image is installed.
 ```bash
 module purge  
 module load Miniforge3
