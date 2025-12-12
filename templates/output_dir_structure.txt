@@ -1,0 +1,10 @@
+Expected Output Directory Structure:
+
+gnina_out/
+└── {pdb_id}/
+    ├── {pdb_id}_{lig_id}.log
+    ├── {pdb_id}_{lig_id}.pdbqt
+    ├── {pdb_id}_{lig_id}.csv
+    ├── pose_0001.sdf
+    ├── pose_0002.sdf
+    ├── ...
